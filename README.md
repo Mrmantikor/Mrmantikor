@@ -10,7 +10,7 @@
 
 <div>
 <img align="left" alt="" height="220px" width=450 src="https://github.com/user-attachments/assets/b035d7ff-65f2-4679-8a8a-f3aec929107c"></a>
- <img align="right" width=360 src="https://www.codewars.com/users/Mrmantikor/badges/large" alt="Codewars Badge">
+ <a align="right" height=210 width=auto href="https://www.codewars.com/users/Mrmantikor"><img src="https://www.codewars.com/users/Mrmantikor/badges/large">
    <a href="https://github.comMrmantikor">
     <img height=210 width=360 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mrmantikor&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr&border_radius=10" />
   </a>
