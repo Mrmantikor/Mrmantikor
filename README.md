@@ -1,6 +1,6 @@
 ### Languages :
 
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align: center">
 <table  align="center">
   <tr>
     
