@@ -1,9 +1,9 @@
 ### Languages :
 
 <div style="display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(1, 1fr);
-    gap: 1px;">
+    grid-template-columns: repeat(2,  15px);
+    grid-template-rows: repeat(1, 15px);
+    gap: 2px;">
 <table>
   <tr>
     
