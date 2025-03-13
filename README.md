@@ -1,7 +1,7 @@
 ### Languages :
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table  align="center">
+<div style="display: flex;">
+<table>
   <tr>
     
         🇺🇦 Ukrainian - Native
