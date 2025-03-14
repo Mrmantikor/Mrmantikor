@@ -1,4 +1,4 @@
-<h3 align=center>»「 Знайшов що шукав? =) 」«</h3>
+<h3 align=center>»「 Знайшов що шукав? =) Молодець!=)) 」«</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mrmantikor/Mrmantikor/output/github-snake-dark.svg" />
