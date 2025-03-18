@@ -9,9 +9,12 @@
 
 https://goit.global/ua/
 
-![Image](https://github.com/user-attachments/assets/e09abe74-d5e1-4e44-8744-d4371a9379f9)
+**My progress on GoIT 18.03.2025**
 
-![Image](https://github.com/user-attachments/assets/881fdb11-9aec-442c-87a8-7057238d4890)
+<img width="1160" alt="Image" src="https://github.com/user-attachments/assets/c157216b-2780-47b4-826d-1ccf5442bdb6" />
+
+<img width="1148" alt="Image" src="https://github.com/user-attachments/assets/449b72fb-e2b7-494e-9d94-c67a5a43f743" />
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10">
 <br><br>
 
