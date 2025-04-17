@@ -9,11 +9,11 @@
 
 https://goit.global/ua/
 
-**My progress on GoIT 18.03.2025**
+**My progress on GoIT 17.04.2025**
 
-<img width="1151" alt="Image" src="https://github.com/user-attachments/assets/a0ee9039-3ba3-443b-91fd-d1ed7c43fd6f" />
+<img width="1151" alt="Image" src="https://github.com/user-attachments/assets/d0d66543-839a-40c6-ab4d-d95ea06cf660" />
 
-<img width="1143" alt="Image" src="https://github.com/user-attachments/assets/5b6dd04b-2209-4747-90d8-5546d5f1d6df" />
+<img width="1143" alt="Image" src="https://github.com/user-attachments/assets/e5a6e029-8ee1-4d12-b3a8-d95d5c69cc34" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10">
 <br><br>
